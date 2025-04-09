@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL="https://trello.com/invite/b/67e080ed3950ef4adc5833d6/ATTI89a87092a5c90e1b94a61df07390bde3EA0C300B/fomo-fear-of-missing-out"
+description='My mod I made to load a mod and then restart the game in a spooky way'
+
+[[mods]]
+modId="possessedmod"
+version="1.0.0"
+displayName="Possessed Mod"
+description="Adds corruption to the world after reaching certain milestones."
+authors="k33ganat0r"
